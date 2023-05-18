@@ -209,7 +209,7 @@ h4{
   text-align: left;
 }
 .categories .cover-1{
-  background: url('/cover-1.jpg') no-repeat center center / cover;
+  background: url('cover-1.jpg') no-repeat center center / cover;
 }
 .categories .cover-2{
   background: url('cover-2.jpg') no-repeat center center / cover;
